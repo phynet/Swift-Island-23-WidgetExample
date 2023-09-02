@@ -17,13 +17,13 @@ class TaskDataModel {
     static let shared = TaskDataModel()
     private init() {}
     
-//    var tasks: [TaskModel] = [
-//        .init(taskTitle: "Take 500 mlt"),
-//        .init(taskTitle: "Take 1 Lt"),
-//        .init(taskTitle: "Take 1.5 Lt")
-//    ]
-    
     var tasks: [TaskModel] = [
-      
+        .init(taskTitle: "Take 500 mlt"),
+        .init(taskTitle: "Take 1 Lt"),
+        .init(taskTitle: "Take 1.5 Lt")
     ]
+    
+//    var tasks: [TaskModel] = [
+//      
+//    ]
 }
