@@ -12,6 +12,7 @@ struct WdigetIslandApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .defaultAppStorage(UserDefaults(suiteName: groupName)!)
         }
     }
 }
