@@ -4,9 +4,15 @@ We will try out some of the new iOS 17 novelties for Widgets
 
 | Syntax | Description |
 | --- | ----------- |
-| Button | <img width="391" height="800" src="https://github.com/phynet/swiftIsland-WidgetExample/assets/724536/4e36532e-41a1-4cc5-ba62-62ce858d990f"> |
-| Button and Button style List | <img width="391" alt="image-widget" src="https://github.com/phynet/swiftIsland-WidgetExample/assets/724536/e75c907e-c6de-4786-a48e-e609847ad21e">
- |
+| Button and Button style List | <img width="391" src="https://github.com/phynet/Swift-Island-23-WidgetExample/assets/724536/a102a2ff-40da-415f-ad07-17893af35ab4">
+
+
+## Videos of interest:
+
+* [Bring Widgets to life](https://developer.apple.com/videos/play/wwdc2023/10028/?time=233)
+* [Explore enhancements to AppIntents](https://developer.apple.com/videos/play/wwdc2023/10103/?time=144)
+* [Build programmatic UI with Xcode Previews](https://developer.apple.com/videos/play/wwdc2023/10252/)
+* [Bring widgets to new places](https://developer.apple.com/videos/play/wwdc2023/10027/)
 
 
 
