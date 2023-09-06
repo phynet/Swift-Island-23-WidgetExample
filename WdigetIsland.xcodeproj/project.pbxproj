@@ -12,8 +12,8 @@
 		6F8595A62AA38E9900565CBF /* AppIntent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FF423F52AA078D800EEB4B3 /* AppIntent.swift */; };
 		6F8595A82AA3923C00565CBF /* WaterWidget4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F8595A72AA3923C00565CBF /* WaterWidget4.swift */; };
 		6F8595AA2AA3933E00565CBF /* AppIntent4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F8595A92AA3933E00565CBF /* AppIntent4.swift */; };
-		6F8595AC2AA3964600565CBF /* ToggleMoel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F8595AB2AA3964600565CBF /* ToggleMoel.swift */; };
-		6F8595AD2AA3964600565CBF /* ToggleMoel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F8595AB2AA3964600565CBF /* ToggleMoel.swift */; };
+		6F8595AC2AA3964600565CBF /* ToggleModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F8595AB2AA3964600565CBF /* ToggleModel.swift */; };
+		6F8595AD2AA3964600565CBF /* ToggleModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F8595AB2AA3964600565CBF /* ToggleModel.swift */; };
 		6FF423D92AA0783B00EEB4B3 /* WdigetIslandApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FF423D82AA0783B00EEB4B3 /* WdigetIslandApp.swift */; };
 		6FF423DB2AA0783B00EEB4B3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6FF423DA2AA0783B00EEB4B3 /* ContentView.swift */; };
 		6FF423DD2AA0783D00EEB4B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6FF423DC2AA0783D00EEB4B3 /* Assets.xcassets */; };
@@ -58,7 +58,7 @@
 /* Begin PBXFileReference section */
 		6F8595A72AA3923C00565CBF /* WaterWidget4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterWidget4.swift; sourceTree = "<group>"; };
 		6F8595A92AA3933E00565CBF /* AppIntent4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppIntent4.swift; sourceTree = "<group>"; };
-		6F8595AB2AA3964600565CBF /* ToggleMoel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleMoel.swift; sourceTree = "<group>"; };
+		6F8595AB2AA3964600565CBF /* ToggleModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleModel.swift; sourceTree = "<group>"; };
 		6FF423D52AA0783B00EEB4B3 /* WdigetIsland.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WdigetIsland.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6FF423D82AA0783B00EEB4B3 /* WdigetIslandApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WdigetIslandApp.swift; sourceTree = "<group>"; };
 		6FF423DA2AA0783B00EEB4B3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -128,7 +128,7 @@
 				6FF423DA2AA0783B00EEB4B3 /* ContentView.swift */,
 				6FF423DC2AA0783D00EEB4B3 /* Assets.xcassets */,
 				6FF423DE2AA0783D00EEB4B3 /* Preview Content */,
-				6F8595AB2AA3964600565CBF /* ToggleMoel.swift */,
+				6F8595AB2AA3964600565CBF /* ToggleModel.swift */,
 			);
 			path = WdigetIsland;
 			sourceTree = "<group>";
@@ -271,7 +271,7 @@
 			files = (
 				6F8595A52AA38E9700565CBF /* AppIntent2.swift in Sources */,
 				6FF423DB2AA0783B00EEB4B3 /* ContentView.swift in Sources */,
-				6F8595AC2AA3964600565CBF /* ToggleMoel.swift in Sources */,
+				6F8595AC2AA3964600565CBF /* ToggleModel.swift in Sources */,
 				6F8595A42AA38E9500565CBF /* AppIntent3.swift in Sources */,
 				6F8595A62AA38E9900565CBF /* AppIntent.swift in Sources */,
 				6FF423D92AA0783B00EEB4B3 /* WdigetIslandApp.swift in Sources */,
@@ -288,7 +288,7 @@
 				6F8595AA2AA3933E00565CBF /* AppIntent4.swift in Sources */,
 				6FF423F42AA078D800EEB4B3 /* WaterWidget1.swift in Sources */,
 				6FF424082AA3270F00EEB4B3 /* AppIntent2.swift in Sources */,
-				6F8595AD2AA3964600565CBF /* ToggleMoel.swift in Sources */,
+				6F8595AD2AA3964600565CBF /* ToggleModel.swift in Sources */,
 				6FF424052AA3269100EEB4B3 /* WaterWidget2.swift in Sources */,
 				6FF4240E2AA381AB00EEB4B3 /* AppIntent3.swift in Sources */,
 				6FF423F62AA078D800EEB4B3 /* AppIntent.swift in Sources */,
